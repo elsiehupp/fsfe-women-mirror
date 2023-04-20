@@ -9,15 +9,12 @@ This is a group for women\* who are interested in [Free Software](https://fsfe.o
 
 ## Information
 
-**Coordinator:** ntj
+-   **Coordinator:** ntj
+-   **Deputy:** [dipohl](https://wiki.fsfe.org/Supporters/dipohl)
+-   **Mailing list:** [https://lists.fsfe.org/mailman/listinfo/fsfe-women](https://lists.fsfe.org/mailman/listinfo/fsfe-women)
+-   **How to join:** Please sign up for our mailing list or contact [ntj@fsfe.org](mailto:ntj@fsfe.org)
 
-**Deputy:** [dipohl](https://wiki.fsfe.org/Supporters/dipohl)
-
-**Mailing list:** [https://lists.fsfe.org/mailman/listinfo/fsfe-women](https://lists.fsfe.org/mailman/listinfo/fsfe-women)
-
-**How to join:** Please sign up for our mailing list or contact [ntj@fsfe.org](mailto:ntj@fsfe.org)
-
-You may also get in contact to the members of this group in our [Matrix-Chat](https://matrix.to/#/#women:fsfe.org) ([Read the manual](https://wiki.fsfe.org/TechDocs/Matrix))
+    You may also get in contact to the members of this group in our [Matrix-Chat](https://matrix.to/#/#women:fsfe.org) ([Read the manual](https://wiki.fsfe.org/TechDocs/Matrix))
 
 ## News
 
