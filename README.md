@@ -18,7 +18,7 @@ This is a group for women\* who are interested in [Free Software](https://fsfe.o
 
 ## News
 
--   Our last online meeting took place on Monday the 20th of March 2023 in our [BBB room](https://conf.fsfe.org/b/women)
+-   Our monthly meeting takes place in our [BBB room](https://conf.fsfe.org/b/women). (For the date and time, see the mailing list.)
 -   We now collect [ideas](https://wiki.fsfe.org/Teams/Women/Ideas) and [topics](https://wiki.fsfe.org/Teams/Women/Topics) for our group and upcoming meetings.
 -   We collect [notes](https://wiki.fsfe.org/Teams/Women/Notes) during our monthly meetings.
 -   We started a new page where we collect a [list of women-centric groups in the FOSS community or in programming in general](https://wiki.fsfe.org/Teams/Women/Groups).
